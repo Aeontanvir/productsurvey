@@ -1,5 +1,11 @@
 # productsurvey
 
+Technology: 
+JSP, JSTL, Servlet, JNDI, MySQL, Bootstrap, CSS3, JavaScript (with MVP Architecture)
+
+Details: 
+Product rating application, customer can rate on product and review it!
+
 Functionality 
 -> Product survey
 -> choose product
